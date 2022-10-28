@@ -1,0 +1,10 @@
+{
+  "Bug": {
+    "colour": "B60205",
+    "description": "Something isn't working as designed"
+  },
+  "Enhancement": {
+    "colour": "C5DEF5",
+    "description": "New feature or request"
+  }
+}
